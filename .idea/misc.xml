@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/activity_draft_viewer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/activity_email_viewer.xml" value="0.33" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/activity_make_email.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/email_view.xml" value="0.25" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/itememail.xml" value="0.33" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/mail_lo.xml" value="0.365625" />
+        <entry key="..\:/Users/shawn/AndroidStudioProjects/AndroidEx1Aberin/app/src/main/res/layout/make_email.xml" value="0.4578034682080925" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

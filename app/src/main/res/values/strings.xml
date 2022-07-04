@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidEx1Aberin</string>
+    <string name="draft">DRAFT</string>
+    <string name="to">TO:</string>
+    <string name="subj">Subject:</string>
+    <string name="msg">Body:</string>
+    <string name="discard">discard</string>
+    <string name="send">send</string>
+</resources>
